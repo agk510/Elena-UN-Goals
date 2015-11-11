@@ -1,0 +1,100 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>UN Goals 2030</title>
+  <meta name="description" content="">
+  <meta name="author" content="Elena Paunova">
+
+  <link rel="stylesheet" href="css/reset.css">
+  <link rel="stylesheet" href="js/lib/chosen/chosen.css">
+  <link rel="stylesheet" href="css/styles.css">
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800' rel='stylesheet' type='text/css'>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
+
+  <script src="js/lib/lexicon.js"></script>
+  <script src="js/lib/lexer.js"></script>
+  <script src="js/lib/POSTagger.js"></script>
+  <script src="js/lib/chosen/chosen.jquery.min.js"></script>
+
+  <!--[if lt IE 9]>
+  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+</head>
+
+<body>
+  <div id="wrapper">
+    <header>
+        <div id="color_strip"></div>
+        <h1>United Nations <br>Global Agenda<br> 2030</h1>
+
+    <nav>
+      <h4>Select a part of speech and analyze the language behind the 2030 UN Goals. </h4>
+        <div id="select_container">
+          <select>
+            <option value="default" disabled selected>Part of Speech</option>
+            <option value="noun" data-type="NN,NNP,NNPS,NNS">Noun</option>
+            <option value="adjective" data-type="JJ,JJR,JJS">Adjective</option>
+            <option value="adverb" data-type="RB, RBR, RBS">Adverb</option>
+            <option value="verb" data-type="VB,VBD,VBG,VBN,VBP,VBZ">Verb</option>
+            <option value="preposition" data-type="IN">Preposition</option>
+            <option value="coord_conjunction" data-type="CC">Coord Conjunction (and,but,or)</option>
+            <option value="determiner" data-type="DT">Determiner</option>
+            <option value="modal" data-type="MD">Modal</option>
+            <option value="predeterminer" data-type="PDT">Predeterminer</option>
+            <option value="possessive_pronoun" data-type="PP$">Possessive pronoun</option>
+            <option value="personal_pronoun" data-type="PRP, PRP$">Personal pronoun</option>
+            <option value="particle" data-type="RP">Particle (up,off)</option>
+            <option value="possessive_ending" data-type="POS">Possessive ending</option>
+            <option value="cardinal_number" data-type="CD">Cardinal number</option>
+            <option value="existential_there" data-type="EX">Existential there</option>
+            <option value="to" data-type="TO">To</option>
+            <option value="foreign_word" data-type="FW">Foreign Word (mon dieu)</option>
+            <option value="" disabled="disabled">─────────────────</option>
+            <option value="symbol" data-type="SYM">Symbol</option>
+            <option value="interjection" data-type="UH">Interjection</option>
+            <option value="wh_determiner" data-type="WDT">Wh-determiner (which, that)</option>
+            <option value="wh_pronoun" data-type="WP">Wh pronoun (who, what)</option>
+            <option value="possessive_wh" data-type="WP$">Possessive-Wh (whose)</option>
+            <option value="wh_adverb" data-type="WRB">Wh-adverb (how, where)</option>
+
+          </select>
+        </div>
+        <div class="numberMatches"></div>
+        <img class="clear" src="assets/close.svg" alt="clear result">
+        <div class="btn_container">
+          <div class="btn">Expand All</div>
+          <div class="btn"> Collapse All</div>
+        </div>
+    </nav>
+    </header>
+
+    <article>
+      <div id="goals_wrapper"></div>
+
+      <div id="stats_wrapper">
+        <h2>In numbers</h2>
+        <div class="total">
+          <span></span>
+        </div>
+        <div class="words">
+          <h3>What are the most frequently used words (excluding prepositions, coord conjunction, and punctuation)?</h3>
+        </div>
+
+      </div>
+
+    </article>
+
+    <footer>
+        <a href="#0" class="top">Top</a>
+        <span>© Elena Paunova 2015</span>
+    </footer>
+    <script src="js/script.js"></script>
+  </div>
+</body>
+</html>

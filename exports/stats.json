@@ -1,0 +1,7989 @@
+[
+  {
+    "word": "and",
+    "pos": "CC",
+    "count": 599
+  },
+  {
+    "word": ",",
+    "pos": ",",
+    "count": 599
+  },
+  {
+    "word": "the",
+    "pos": "DT",
+    "count": 239
+  },
+  {
+    "word": "to",
+    "pos": "TO",
+    "count": 210
+  },
+  {
+    "word": "of",
+    "pos": "IN",
+    "count": 207
+  },
+  {
+    "word": "•",
+    "pos": "NN",
+    "count": 170
+  },
+  {
+    "word": "in",
+    "pos": "IN",
+    "count": 148
+  },
+  {
+    "word": "by",
+    "pos": "IN",
+    "count": 112
+  },
+  {
+    "word": "for",
+    "pos": "IN",
+    "count": 99
+  },
+  {
+    "word": ".",
+    "pos": ".",
+    "count": 95
+  },
+  {
+    "word": "all",
+    "pos": "DT",
+    "count": 87
+  },
+  {
+    "word": "countries",
+    "pos": "NNS",
+    "count": 84
+  },
+  {
+    "word": "sustainable",
+    "pos": "JJ",
+    "count": 71
+  },
+  {
+    "word": "including",
+    "pos": "VBG",
+    "count": 64
+  },
+  {
+    "word": "2030",
+    "pos": "CD",
+    "count": 60
+  },
+  {
+    "word": "developing",
+    "pos": "VBG",
+    "count": 55
+  },
+  {
+    "word": "development",
+    "pos": "NN",
+    "count": 48
+  },
+  {
+    "word": "access",
+    "pos": "NN",
+    "count": 47
+  },
+  {
+    "word": "a",
+    "pos": "DT",
+    "count": 44
+  },
+  {
+    "word": "that",
+    "pos": "IN",
+    "count": 42
+  },
+  {
+    "word": "with",
+    "pos": "IN",
+    "count": 42
+  },
+  {
+    "word": "on",
+    "pos": "IN",
+    "count": 41
+  },
+  {
+    "word": "at",
+    "pos": "IN",
+    "count": 37
+  },
+  {
+    "word": "least",
+    "pos": "JJS",
+    "count": 36
+  },
+  {
+    "word": "is",
+    "pos": "VBZ",
+    "count": 34
+  },
+  {
+    "word": "developed",
+    "pos": "VBN",
+    "count": 33
+  },
+  {
+    "word": "through",
+    "pos": "IN",
+    "count": 32
+  },
+  {
+    "word": "ensure",
+    "pos": "VB",
+    "count": 32
+  },
+  {
+    "word": "as",
+    "pos": "IN",
+    "count": 31
+  },
+  {
+    "word": "their",
+    "pos": "PRP$",
+    "count": 29
+  },
+  {
+    "word": "reduce",
+    "pos": "VB",
+    "count": 28
+  },
+  {
+    "word": "promote",
+    "pos": "VB",
+    "count": 27
+  },
+  {
+    "word": "are",
+    "pos": "VBP",
+    "count": 27
+  },
+  {
+    "word": "particular",
+    "pos": "JJ",
+    "count": 26
+  },
+  {
+    "word": "global",
+    "pos": "JJ",
+    "count": 26
+  },
+  {
+    "word": "people",
+    "pos": "NNS",
+    "count": 26
+  },
+  {
+    "word": "education",
+    "pos": "NN",
+    "count": 24
+  },
+  {
+    "word": "national",
+    "pos": "JJ",
+    "count": 24
+  },
+  {
+    "word": "economic",
+    "pos": "JJ",
+    "count": 23
+  },
+  {
+    "word": "resources",
+    "pos": "NNS",
+    "count": 23
+  },
+  {
+    "word": "international",
+    "pos": "JJ",
+    "count": 21
+  },
+  {
+    "word": "2020",
+    "pos": "CD",
+    "count": 21
+  },
+  {
+    "word": "women",
+    "pos": "NNS",
+    "count": 21
+  },
+  {
+    "word": "from",
+    "pos": "IN",
+    "count": 21
+  },
+  {
+    "word": "water",
+    "pos": "NN",
+    "count": 20
+  },
+  {
+    "word": "technology",
+    "pos": "NN",
+    "count": 20
+  },
+  {
+    "word": "poverty",
+    "pos": "NN",
+    "count": 19
+  },
+  {
+    "word": "achieve",
+    "pos": "VB",
+    "count": 19
+  },
+  {
+    "word": "services",
+    "pos": "NNS",
+    "count": 19
+  },
+  {
+    "word": "energy",
+    "pos": "NN",
+    "count": 19
+  },
+  {
+    "word": "per",
+    "pos": "IN",
+    "count": 17
+  },
+  {
+    "word": "food",
+    "pos": "NN",
+    "count": 17
+  },
+  {
+    "word": "financial",
+    "pos": "JJ",
+    "count": 17
+  },
+  {
+    "word": "",
+    "count": 17
+  },
+  {
+    "word": "change",
+    "pos": "NN",
+    "count": 17
+  },
+  {
+    "word": "strengthen",
+    "pos": "VB",
+    "count": 16
+  },
+  {
+    "word": "more",
+    "pos": "JJR",
+    "count": 16
+  },
+  {
+    "word": "substantially",
+    "pos": "RB",
+    "count": 16
+  },
+  {
+    "word": "levels",
+    "pos": "NNS",
+    "count": 16
+  },
+  {
+    "word": "policies",
+    "pos": "NNS",
+    "count": 16
+  },
+  {
+    "word": "quality",
+    "pos": "NN",
+    "count": 16
+  },
+  {
+    "word": "implement",
+    "pos": "VB",
+    "count": 16
+  },
+  {
+    "word": "other",
+    "pos": "JJ",
+    "count": 16
+  },
+  {
+    "word": "infrastructure",
+    "pos": "NN",
+    "count": 15
+  },
+  {
+    "word": "management",
+    "pos": "NN",
+    "count": 15
+  },
+  {
+    "word": "use",
+    "pos": "NN",
+    "count": 15
+  },
+  {
+    "word": "increase",
+    "pos": "NN",
+    "count": 15
+  },
+  {
+    "word": "provide",
+    "pos": "VB",
+    "count": 15
+  },
+  {
+    "word": "climate",
+    "pos": "NN",
+    "count": 15
+  },
+  {
+    "word": "support",
+    "pos": "NN",
+    "count": 14
+  },
+  {
+    "word": "end",
+    "pos": "NN",
+    "count": 14
+  },
+  {
+    "word": "accordance",
+    "pos": "NN",
+    "count": 14
+  },
+  {
+    "word": "health",
+    "pos": "NN",
+    "count": 14
+  },
+  {
+    "word": "capacity",
+    "pos": "NN",
+    "count": 14
+  },
+  {
+    "word": "have",
+    "pos": "VBP",
+    "count": 13
+  },
+  {
+    "word": "information",
+    "pos": "NN",
+    "count": 13
+  },
+  {
+    "word": "girls",
+    "pos": "NNS",
+    "count": 13
+  },
+  {
+    "word": "inclusive",
+    "pos": "JJ",
+    "count": 13
+  },
+  {
+    "word": "forms",
+    "pos": "NNS",
+    "count": 12
+  },
+  {
+    "word": "social",
+    "pos": "JJ",
+    "count": 12
+  },
+  {
+    "word": "equal",
+    "pos": "JJ",
+    "count": 12
+  },
+  {
+    "word": "cooperation",
+    "pos": "NN",
+    "count": 12
+  },
+  {
+    "word": "public",
+    "pos": "JJ",
+    "count": 12
+  },
+  {
+    "word": "effective",
+    "pos": "JJ",
+    "count": 12
+  },
+  {
+    "word": "affordable",
+    "pos": "JJ",
+    "count": 11
+  },
+  {
+    "word": "significantly",
+    "pos": "RB",
+    "count": 11
+  },
+  {
+    "word": "production",
+    "pos": "NN",
+    "count": 11
+  },
+  {
+    "word": "small",
+    "pos": "JJ",
+    "count": 11
+  },
+  {
+    "word": "countries",
+    "pos": "NN",
+    "count": 11
+  },
+  {
+    "word": "safe",
+    "pos": "JJ",
+    "count": 11
+  },
+  {
+    "word": "universal",
+    "pos": "JJ",
+    "count": 11
+  },
+  {
+    "word": "land",
+    "pos": "NN",
+    "count": 11
+  },
+  {
+    "word": "increasing",
+    "pos": "VBG",
+    "count": 11
+  },
+  {
+    "word": "island",
+    "pos": "NN",
+    "count": 10
+  },
+  {
+    "word": "poor",
+    "pos": "JJ",
+    "count": 10
+  },
+  {
+    "word": "–",
+    "pos": "NN",
+    "count": 10
+  },
+  {
+    "word": "into",
+    "pos": "IN",
+    "count": 10
+  },
+  {
+    "word": "human",
+    "pos": "JJ",
+    "count": 10
+  },
+  {
+    "word": "its",
+    "pos": "PRP$",
+    "count": 10
+  },
+  {
+    "word": "world",
+    "pos": "NN",
+    "count": 10
+  },
+  {
+    "word": "not",
+    "pos": "RB",
+    "count": 10
+  },
+  {
+    "word": "it",
+    "pos": "PRP",
+    "count": 10
+  },
+  {
+    "word": "vulnerable",
+    "pos": "JJ",
+    "count": 10
+  },
+  {
+    "word": "growth",
+    "pos": "NN",
+    "count": 10
+  },
+  {
+    "word": "marine",
+    "pos": "NN",
+    "count": 9
+  },
+  {
+    "word": "cent",
+    "pos": "NN",
+    "count": 9
+  },
+  {
+    "word": "consumption",
+    "pos": "NN",
+    "count": 9
+  },
+  {
+    "word": "order",
+    "pos": "NN",
+    "count": 9
+  },
+  {
+    "word": "action",
+    "pos": "NN",
+    "count": 9
+  },
+  {
+    "word": "decent",
+    "pos": "JJ",
+    "count": 9
+  },
+  {
+    "word": "number",
+    "pos": "NN",
+    "count": 9
+  },
+  {
+    "word": "jobs",
+    "pos": "NNS",
+    "count": 9
+  },
+  {
+    "word": "states",
+    "pos": "NNPS",
+    "count": 9
+  },
+  {
+    "word": "while",
+    "pos": "IN",
+    "count": 9
+  },
+  {
+    "word": "than",
+    "pos": "IN",
+    "count": 9
+  },
+  {
+    "word": "enhance",
+    "pos": "NNP",
+    "count": 9
+  },
+  {
+    "word": "forests",
+    "pos": "NNS",
+    "count": 9
+  },
+  {
+    "word": "such",
+    "pos": "JJ",
+    "count": 9
+  },
+  {
+    "word": "efficiency",
+    "pos": "NN",
+    "count": 9
+  },
+  {
+    "word": "domestic",
+    "pos": "JJ",
+    "count": 9
+  },
+  {
+    "word": "many",
+    "pos": "JJ",
+    "count": 8
+  },
+  {
+    "word": "equality",
+    "pos": "NN",
+    "count": 8
+  },
+  {
+    "word": "opportunities",
+    "pos": "NNS",
+    "count": 8
+  },
+  {
+    "word": "impacts",
+    "pos": "NNS",
+    "count": 8
+  },
+  {
+    "word": "biodiversity",
+    "pos": "NN",
+    "count": 8
+  },
+  {
+    "word": "institutions",
+    "pos": "NNS",
+    "count": 8
+  },
+  {
+    "word": "combat",
+    "pos": "NN",
+    "count": 8
+  },
+  {
+    "word": "address",
+    "pos": "NN",
+    "count": 8
+  },
+  {
+    "word": "resource",
+    "pos": "NN",
+    "count": 8
+  },
+  {
+    "word": "this",
+    "pos": "DT",
+    "count": 8
+  },
+  {
+    "word": "employment",
+    "pos": "NN",
+    "count": 8
+  },
+  {
+    "word": "cities",
+    "pos": "NNS",
+    "count": 8
+  },
+  {
+    "word": "environmental",
+    "pos": "JJ",
+    "count": 8
+  },
+  {
+    "word": "local",
+    "pos": "JJ",
+    "count": 8
+  },
+  {
+    "word": "has",
+    "pos": "VBZ",
+    "count": 8
+  },
+  {
+    "word": "improve",
+    "pos": "VB",
+    "count": 8
+  },
+  {
+    "word": "innovation",
+    "pos": "NN",
+    "count": 8
+  },
+  {
+    "word": "gender",
+    "pos": "NN",
+    "count": 8
+  },
+  {
+    "word": "research",
+    "pos": "NN",
+    "count": 8
+  },
+  {
+    "word": "enhance",
+    "pos": "VB",
+    "count": 8
+  },
+  {
+    "word": "essential",
+    "pos": "JJ",
+    "count": 8
+  },
+  {
+    "word": "be",
+    "pos": "VB",
+    "count": 8
+  },
+  {
+    "word": "resilient",
+    "pos": "JJ",
+    "count": 7
+  },
+  {
+    "word": "implementation",
+    "pos": "NN",
+    "count": 7
+  },
+  {
+    "word": "make",
+    "pos": "VB",
+    "count": 7
+  },
+  {
+    "word": "ecosystems",
+    "pos": "NN",
+    "count": 7
+  },
+  {
+    "word": "share",
+    "pos": "NN",
+    "count": 7
+  },
+  {
+    "word": "significant",
+    "pos": "JJ",
+    "count": 7
+  },
+  {
+    "word": "develop",
+    "pos": "VB",
+    "count": 7
+  },
+  {
+    "word": "needed",
+    "pos": "VBN",
+    "count": 7
+  },
+  {
+    "word": "been",
+    "pos": "VBN",
+    "count": 7
+  },
+  {
+    "word": "we",
+    "pos": "PRP",
+    "count": 7
+  },
+  {
+    "word": "progress",
+    "pos": "NN",
+    "count": 7
+  },
+  {
+    "word": "investment",
+    "pos": "NN",
+    "count": 7
+  },
+  {
+    "word": "taking",
+    "pos": "VBG",
+    "count": 7
+  },
+  {
+    "word": "basic",
+    "pos": "JJ",
+    "count": 7
+  },
+  {
+    "word": "equitable",
+    "pos": "JJ",
+    "count": 7
+  },
+  {
+    "word": "will",
+    "pos": "MD",
+    "count": 7
+  },
+  {
+    "word": "all",
+    "pos": "NN",
+    "count": 7
+  },
+  {
+    "word": "efforts",
+    "pos": "NNS",
+    "count": 7
+  },
+  {
+    "word": "measures",
+    "pos": "NNS",
+    "count": 7
+  },
+  {
+    "word": "protect",
+    "pos": "VB",
+    "count": 7
+  },
+  {
+    "word": "policy",
+    "pos": "NN",
+    "count": 7
+  },
+  {
+    "word": "subsidies",
+    "pos": "NNS",
+    "count": 7
+  },
+  {
+    "word": "lives",
+    "pos": "NNS",
+    "count": 7
+  },
+  {
+    "word": "children",
+    "pos": "NNS",
+    "count": 7
+  },
+  {
+    "word": "or",
+    "pos": "CC",
+    "count": 7
+  },
+  {
+    "word": "regional",
+    "pos": "JJ",
+    "count": 6
+  },
+  {
+    "word": "diseases",
+    "pos": "NNS",
+    "count": 6
+  },
+  {
+    "word": "knowledge",
+    "pos": "NN",
+    "count": 6
+  },
+  {
+    "word": "activities",
+    "pos": "NNS",
+    "count": 6
+  },
+  {
+    "word": "pollution",
+    "pos": "NN",
+    "count": 6
+  },
+  {
+    "word": "desertification",
+    "pos": "NN",
+    "count": 6
+  },
+  {
+    "word": "primary",
+    "pos": "JJ",
+    "count": 6
+  },
+  {
+    "word": "every",
+    "pos": "DT",
+    "count": 6
+  },
+  {
+    "word": "practices",
+    "pos": "NNS",
+    "count": 6
+  },
+  {
+    "word": "live",
+    "pos": "VB",
+    "count": 6
+  },
+  {
+    "word": "extreme",
+    "pos": "JJ",
+    "count": 6
+  },
+  {
+    "word": "supply",
+    "pos": "RB",
+    "count": 6
+  },
+  {
+    "word": "disasters",
+    "pos": "NNS",
+    "count": 6
+  },
+  {
+    "word": "encourage",
+    "pos": "VB",
+    "count": 6
+  },
+  {
+    "word": "sanitation",
+    "pos": "NN",
+    "count": 6
+  },
+  {
+    "word": "appropriate",
+    "pos": "JJ",
+    "count": 6
+  },
+  {
+    "word": "enhanced",
+    "pos": "VBN",
+    "count": 6
+  },
+  {
+    "word": "scientific",
+    "pos": "JJ",
+    "count": 6
+  },
+  {
+    "word": "affected",
+    "pos": "VBN",
+    "count": 6
+  },
+  {
+    "word": "among",
+    "pos": "IN",
+    "count": 6
+  },
+  {
+    "word": "adequate",
+    "pos": "JJ",
+    "count": 6
+  },
+  {
+    "word": "debt",
+    "pos": "NN",
+    "count": 6
+  },
+  {
+    "word": "species",
+    "pos": "NN",
+    "count": 6
+  },
+  {
+    "word": "natural",
+    "pos": "JJ",
+    "count": 6
+  },
+  {
+    "word": "programmes",
+    "pos": "NNS",
+    "count": 6
+  },
+  {
+    "word": "child",
+    "pos": "NN",
+    "count": 6
+  },
+  {
+    "word": "life",
+    "pos": "NN",
+    "count": 6
+  },
+  {
+    "word": "men",
+    "pos": "NNS",
+    "count": 6
+  },
+  {
+    "word": "trade",
+    "pos": "NNP",
+    "count": 6
+  },
+  {
+    "word": "under",
+    "pos": "IN",
+    "count": 6
+  },
+  {
+    "word": "support",
+    "pos": "NNP",
+    "count": 6
+  },
+  {
+    "word": "organization",
+    "pos": "NNP",
+    "count": 6
+  },
+  {
+    "word": "sound",
+    "pos": "NN",
+    "count": 6
+  },
+  {
+    "word": "needs",
+    "pos": "VBZ",
+    "count": 6
+  },
+  {
+    "word": "oceans",
+    "pos": "NNS",
+    "count": 6
+  },
+  {
+    "word": "work",
+    "pos": "NN",
+    "count": 6
+  },
+  {
+    "word": "agricultural",
+    "pos": "JJ",
+    "count": 6
+  },
+  {
+    "word": "adopt",
+    "pos": "VB",
+    "count": 6
+  },
+  {
+    "word": "those",
+    "pos": "DT",
+    "count": 5
+  },
+  {
+    "word": "towards",
+    "pos": "IN",
+    "count": 5
+  },
+  {
+    "word": "",
+    "pos": "NN",
+    "count": 5
+  },
+  {
+    "word": "inequality",
+    "pos": "NN",
+    "count": 5
+  },
+  {
+    "word": "prevent",
+    "pos": "VB",
+    "count": 5
+  },
+  {
+    "word": "made",
+    "pos": "VBN",
+    "count": 5
+  },
+  {
+    "word": "reducing",
+    "pos": "VBG",
+    "count": 5
+  },
+  {
+    "word": "mortality",
+    "pos": "NN",
+    "count": 5
+  },
+  {
+    "word": "plans",
+    "pos": "NNS",
+    "count": 5
+  },
+  {
+    "word": "value",
+    "pos": "NN",
+    "count": 5
+  },
+  {
+    "word": "fully",
+    "pos": "RB",
+    "count": 5
+  },
+  {
+    "word": "productive",
+    "pos": "JJ",
+    "count": 5
+  },
+  {
+    "word": "industrial",
+    "pos": "JJ",
+    "count": 5
+  },
+  {
+    "word": "productivity",
+    "pos": "NN",
+    "count": 5
+  },
+  {
+    "word": "industrialization",
+    "pos": "NN",
+    "count": 5
+  },
+  {
+    "word": "age",
+    "pos": "NN",
+    "count": 5
+  },
+  {
+    "word": "treatment",
+    "pos": "NN",
+    "count": 5
+  },
+  {
+    "word": "even",
+    "pos": "RB",
+    "count": 5
+  },
+  {
+    "word": "take",
+    "pos": "VB",
+    "count": 5
+  },
+  {
+    "word": "climate",
+    "pos": "NNP",
+    "count": 5
+  },
+  {
+    "word": "world",
+    "pos": "NNP",
+    "count": 5
+  },
+  {
+    "word": "framework",
+    "pos": "NNP",
+    "count": 5
+  },
+  {
+    "word": "degradation",
+    "pos": "NN",
+    "count": 5
+  },
+  {
+    "word": "especially",
+    "pos": "RB",
+    "count": 5
+  },
+  {
+    "word": "reduction",
+    "pos": "NN",
+    "count": 5
+  },
+  {
+    "word": "strategies",
+    "pos": "NNS",
+    "count": 5
+  },
+  {
+    "word": "sources",
+    "pos": "NNS",
+    "count": 5
+  },
+  {
+    "word": "development",
+    "pos": "NNP",
+    "count": 5
+  },
+  {
+    "word": "between",
+    "pos": "IN",
+    "count": 5
+  },
+  {
+    "word": "relevant",
+    "pos": "JJ",
+    "count": 5
+  },
+  {
+    "word": "technical",
+    "pos": "JJ",
+    "count": 5
+  },
+  {
+    "word": "youth",
+    "pos": "NN",
+    "count": 5
+  },
+  {
+    "word": "technological",
+    "pos": "JJ",
+    "count": 5
+  },
+  {
+    "word": "eliminate",
+    "pos": "VB",
+    "count": 5
+  },
+  {
+    "word": "persons",
+    "pos": "NNS",
+    "count": 5
+  },
+  {
+    "word": "conservation",
+    "pos": "NN",
+    "count": 5
+  },
+  {
+    "word": "rights",
+    "pos": "NNS",
+    "count": 5
+  },
+  {
+    "word": "promotion",
+    "pos": "NN",
+    "count": 5
+  },
+  {
+    "word": "upgrade",
+    "pos": "VB",
+    "count": 5
+  },
+  {
+    "word": "communications",
+    "pos": "NNS",
+    "count": 5
+  },
+  {
+    "word": "mobilize",
+    "pos": "VB",
+    "count": 5
+  },
+  {
+    "word": "requires",
+    "pos": "VBZ",
+    "count": 5
+  },
+  {
+    "word": "violence",
+    "pos": "NN",
+    "count": 5
+  },
+  {
+    "word": "economies",
+    "pos": "NNS",
+    "count": 5
+  },
+  {
+    "word": "trafficking",
+    "pos": "VBG",
+    "count": 5
+  },
+  {
+    "word": "well",
+    "pos": "RB",
+    "count": 5
+  },
+  {
+    "word": "hunger",
+    "pos": "NN",
+    "count": 5
+  },
+  {
+    "word": "modern",
+    "pos": "JJ",
+    "count": 5
+  },
+  {
+    "word": "communities",
+    "pos": "NNS",
+    "count": 5
+  },
+  {
+    "word": "income",
+    "pos": "NN",
+    "count": 5
+  },
+  {
+    "word": "risk",
+    "pos": "NN",
+    "count": 5
+  },
+  {
+    "word": "capacity-building",
+    "pos": "VBG",
+    "count": 5
+  },
+  {
+    "word": "less",
+    "pos": "JJR",
+    "count": 5
+  },
+  {
+    "word": "world’s",
+    "pos": "NNS",
+    "count": 5
+  },
+  {
+    "word": "special",
+    "pos": "JJ",
+    "count": 5
+  },
+  {
+    "word": "fisheries",
+    "pos": "NNS",
+    "count": 4
+  },
+  {
+    "word": "soil",
+    "pos": "NN",
+    "count": 4
+  },
+  {
+    "word": "right",
+    "pos": "NN",
+    "count": 4
+  },
+  {
+    "word": "training",
+    "pos": "VBG",
+    "count": 4
+  },
+  {
+    "word": "progressively",
+    "pos": "RB",
+    "count": 4
+  },
+  {
+    "word": "our",
+    "pos": "PRP$",
+    "count": 4
+  },
+  {
+    "word": "agriculture",
+    "pos": "NN",
+    "count": 4
+  },
+  {
+    "word": "early",
+    "pos": "RB",
+    "count": 4
+  },
+  {
+    "word": "adverse",
+    "pos": "JJ",
+    "count": 4
+  },
+  {
+    "word": "security",
+    "pos": "NN",
+    "count": 4
+  },
+  {
+    "word": "sustainably",
+    "pos": "RB",
+    "count": 4
+  },
+  {
+    "word": "improving",
+    "pos": "VBG",
+    "count": 4
+  },
+  {
+    "word": "market",
+    "pos": "NN",
+    "count": 4
+  },
+  {
+    "word": "transport",
+    "pos": "NN",
+    "count": 4
+  },
+  {
+    "word": "clean",
+    "pos": "JJ",
+    "count": 4
+  },
+  {
+    "word": "skills",
+    "pos": "NNS",
+    "count": 4
+  },
+  {
+    "word": "goals",
+    "pos": "NNS",
+    "count": 4
+  },
+  {
+    "word": "deaths",
+    "pos": "NNS",
+    "count": 4
+  },
+  {
+    "word": "weather",
+    "pos": "NN",
+    "count": 4
+  },
+  {
+    "word": "5",
+    "pos": "CD",
+    "count": 4
+  },
+  {
+    "word": "adaptation",
+    "pos": "NN",
+    "count": 4
+  },
+  {
+    "word": "vocational",
+    "pos": "JJ",
+    "count": 4
+  },
+  {
+    "word": "agreed",
+    "pos": "VBD",
+    "count": 4
+  },
+  {
+    "word": "resilience",
+    "pos": "NN",
+    "count": 4
+  },
+  {
+    "word": "solutions",
+    "pos": "NNS",
+    "count": 4
+  },
+  {
+    "word": "levels",
+    "pos": "NN",
+    "count": 4
+  },
+  {
+    "word": "build",
+    "pos": "VB",
+    "count": 4
+  },
+  {
+    "word": "product",
+    "pos": "NN",
+    "count": 4
+  },
+  {
+    "word": "building",
+    "pos": "VBG",
+    "count": 4
+  },
+  {
+    "word": "gross",
+    "pos": "JJ",
+    "count": 4
+  },
+  {
+    "word": "reproductive",
+    "pos": "JJ",
+    "count": 4
+  },
+  {
+    "word": "planning",
+    "pos": "VBG",
+    "count": 4
+  },
+  {
+    "word": "labour",
+    "pos": "NN",
+    "count": 4
+  },
+  {
+    "word": "culture",
+    "pos": "NN",
+    "count": 4
+  },
+  {
+    "word": "halt",
+    "pos": "NN",
+    "count": 4
+  },
+  {
+    "word": "them",
+    "pos": "PRP",
+    "count": 4
+  },
+  {
+    "word": "expand",
+    "pos": "VB",
+    "count": 4
+  },
+  {
+    "word": "systems",
+    "pos": "NNS",
+    "count": 4
+  },
+  {
+    "word": "higher",
+    "pos": "JJR",
+    "count": 4
+  },
+  {
+    "word": "associated",
+    "pos": "VBN",
+    "count": 4
+  },
+  {
+    "word": "protection",
+    "pos": "NN",
+    "count": 4
+  },
+  {
+    "word": "medicines",
+    "pos": "NNS",
+    "count": 4
+  },
+  {
+    "word": "working",
+    "pos": "VBG",
+    "count": 4
+  },
+  {
+    "word": "investments",
+    "pos": "NNS",
+    "count": 4
+  },
+  {
+    "word": "level",
+    "pos": "NN",
+    "count": 4
+  },
+  {
+    "word": "population",
+    "pos": "NN",
+    "count": 4
+  },
+  {
+    "word": "continue",
+    "pos": "VB",
+    "count": 4
+  },
+  {
+    "word": "challenges",
+    "pos": "NNS",
+    "count": 4
+  },
+  {
+    "word": "partnerships",
+    "pos": "NNS",
+    "count": 4
+  },
+  {
+    "word": "proportion",
+    "pos": "NN",
+    "count": 4
+  },
+  {
+    "word": "renewable",
+    "pos": "JJ",
+    "count": 4
+  },
+  {
+    "word": "providing",
+    "pos": "VBG",
+    "count": 4
+  },
+  {
+    "word": "eradicate",
+    "pos": "VB",
+    "count": 4
+  },
+  {
+    "word": "decision-making",
+    "pos": "VBG",
+    "count": 4
+  },
+  {
+    "word": "participation",
+    "pos": "NN",
+    "count": 4
+  },
+  {
+    "word": "benefits",
+    "pos": "NNS",
+    "count": 4
+  },
+  {
+    "word": "societies",
+    "pos": "NNS",
+    "count": 4
+  },
+  {
+    "word": "against",
+    "pos": "IN",
+    "count": 4
+  },
+  {
+    "word": "private",
+    "pos": "JJ",
+    "count": 4
+  },
+  {
+    "word": "air",
+    "pos": "NN",
+    "count": 4
+  },
+  {
+    "word": "increase",
+    "pos": "VB",
+    "count": 4
+  },
+  {
+    "word": "being",
+    "pos": "VBG",
+    "count": 4
+  },
+  {
+    "word": "facilitate",
+    "pos": "VB",
+    "count": 4
+  },
+  {
+    "word": "reliable",
+    "pos": "JJ",
+    "count": 4
+  },
+  {
+    "word": "now",
+    "pos": "RB",
+    "count": 4
+  },
+  {
+    "word": "environment",
+    "pos": "NN",
+    "count": 4
+  },
+  {
+    "word": "lack",
+    "pos": "NN",
+    "count": 4
+  },
+  {
+    "word": "environmentally",
+    "pos": "RB",
+    "count": 4
+  },
+  {
+    "word": "rural",
+    "pos": "JJ",
+    "count": 4
+  },
+  {
+    "word": "an",
+    "pos": "DT",
+    "count": 4
+  },
+  {
+    "word": "restore",
+    "pos": "VB",
+    "count": 4
+  },
+  {
+    "word": "integrated",
+    "pos": "VBN",
+    "count": 4
+  },
+  {
+    "word": "which",
+    "pos": "WDT",
+    "count": 4
+  },
+  {
+    "word": "most",
+    "pos": "RBS",
+    "count": 4
+  },
+  {
+    "word": "everywhere",
+    "pos": "RB",
+    "count": 4
+  },
+  {
+    "word": "impact",
+    "pos": "NN",
+    "count": 4
+  },
+  {
+    "word": "incomes",
+    "pos": "NNS",
+    "count": 4
+  },
+  {
+    "word": "attention",
+    "pos": "NN",
+    "count": 4
+  },
+  {
+    "word": "can",
+    "pos": "MD",
+    "count": 4
+  },
+  {
+    "word": "markets",
+    "pos": "NNS",
+    "count": 4
+  },
+  {
+    "word": "sexual",
+    "pos": "JJ",
+    "count": 3
+  },
+  {
+    "word": "transfer",
+    "pos": "NN",
+    "count": 3
+  },
+  {
+    "word": "tourism",
+    "pos": "NN",
+    "count": 3
+  },
+  {
+    "word": "create",
+    "pos": "VB",
+    "count": 3
+  },
+  {
+    "word": "workers",
+    "pos": "NNS",
+    "count": 3
+  },
+  {
+    "word": "contribute",
+    "pos": "VB",
+    "count": 3
+  },
+  {
+    "word": "help",
+    "pos": "VB",
+    "count": 3
+  },
+  {
+    "word": "degraded",
+    "pos": "JJ",
+    "count": 3
+  },
+  {
+    "word": "$",
+    "pos": "$",
+    "count": 3
+  },
+  {
+    "word": "vaccines",
+    "pos": "NNS",
+    "count": 3
+  },
+  {
+    "word": "frameworks",
+    "pos": "NNS",
+    "count": 3
+  },
+  {
+    "word": "law",
+    "pos": "NN",
+    "count": 3
+  },
+  {
+    "word": "rates",
+    "pos": "NNS",
+    "count": 3
+  },
+  {
+    "word": "chemicals",
+    "pos": "NNS",
+    "count": 3
+  },
+  {
+    "word": "day",
+    "pos": "NN",
+    "count": 3
+  },
+  {
+    "word": "coherence",
+    "pos": "NN",
+    "count": 3
+  },
+  {
+    "word": "drought",
+    "pos": "NN",
+    "count": 3
+  },
+  {
+    "word": "there",
+    "pos": "EX",
+    "count": 3
+  },
+  {
+    "word": "discrimination",
+    "pos": "NN",
+    "count": 3
+  },
+  {
+    "word": "situations",
+    "pos": "NNS",
+    "count": 3
+  },
+  {
+    "word": "urgent",
+    "pos": "JJ",
+    "count": 3
+  },
+  {
+    "word": "convention",
+    "pos": "NNP",
+    "count": 3
+  },
+  {
+    "word": "appropriate",
+    "pos": "NN",
+    "count": 3
+  },
+  {
+    "word": "eradication",
+    "pos": "NN",
+    "count": 3
+  },
+  {
+    "word": "framework",
+    "pos": "NN",
+    "count": 3
+  },
+  {
+    "word": "10",
+    "pos": "CD",
+    "count": 3
+  },
+  {
+    "word": "genetic",
+    "pos": "JJ",
+    "count": 3
+  },
+  {
+    "word": "full",
+    "pos": "JJ",
+    "count": 3
+  },
+  {
+    "word": "science",
+    "pos": "NN",
+    "count": 3
+  },
+  {
+    "word": "related",
+    "pos": "VBN",
+    "count": 3
+  },
+  {
+    "word": "living",
+    "pos": "VBG",
+    "count": 3
+  },
+  {
+    "word": "costs",
+    "pos": "NNS",
+    "count": 3
+  },
+  {
+    "word": "conserve",
+    "pos": "VB",
+    "count": 3
+  },
+  {
+    "word": "need",
+    "pos": "VBN",
+    "count": 3
+  },
+  {
+    "word": "integrate",
+    "pos": "VB",
+    "count": 3
+  },
+  {
+    "word": "sharing",
+    "pos": "VBG",
+    "count": 3
+  },
+  {
+    "word": "fishing",
+    "pos": "VBG",
+    "count": 3
+  },
+  {
+    "word": "direct",
+    "pos": "JJ",
+    "count": 3
+  },
+  {
+    "word": "assistance",
+    "pos": "NN",
+    "count": 3
+  },
+  {
+    "word": "agreed",
+    "pos": "NN",
+    "count": 3
+  },
+  {
+    "word": "illegal",
+    "pos": "JJ",
+    "count": 3
+  },
+  {
+    "word": "learning",
+    "pos": "VBG",
+    "count": 3
+  },
+  {
+    "word": "foundation",
+    "pos": "NN",
+    "count": 3
+  },
+  {
+    "word": "improved",
+    "pos": "VBN",
+    "count": 3
+  },
+  {
+    "word": "if",
+    "pos": "IN",
+    "count": 3
+  },
+  {
+    "word": "million",
+    "pos": "NN",
+    "count": 3
+  },
+  {
+    "word": "account",
+    "pos": "NN",
+    "count": 3
+  },
+  {
+    "word": "consumers",
+    "pos": "NNS",
+    "count": 3
+  },
+  {
+    "word": "greater",
+    "pos": "JJR",
+    "count": 3
+  },
+  {
+    "word": "agreements",
+    "pos": "NN",
+    "count": 3
+  },
+  {
+    "word": "achieved",
+    "pos": "VBN",
+    "count": 3
+  },
+  {
+    "word": "accountable",
+    "pos": "JJ",
+    "count": 3
+  },
+  {
+    "word": "billion",
+    "pos": "NN",
+    "count": 3
+  },
+  {
+    "word": "boys",
+    "pos": "NNS",
+    "count": 3
+  },
+  {
+    "word": "but",
+    "pos": "CC",
+    "count": 3
+  },
+  {
+    "word": "target",
+    "pos": "NN",
+    "count": 3
+  },
+  {
+    "word": "focus",
+    "pos": "NNS",
+    "count": 3
+  },
+  {
+    "word": "monitoring",
+    "pos": "VBG",
+    "count": 3
+  },
+  {
+    "word": "care",
+    "pos": "NN",
+    "count": 3
+  },
+  {
+    "word": "they",
+    "pos": "PRP",
+    "count": 3
+  },
+  {
+    "word": "should",
+    "pos": "MD",
+    "count": 3
+  },
+  {
+    "word": "patterns",
+    "pos": "NNS",
+    "count": 3
+  },
+  {
+    "word": "still",
+    "pos": "RB",
+    "count": 3
+  },
+  {
+    "word": "millions",
+    "pos": "NNS",
+    "count": 3
+  },
+  {
+    "word": "doha",
+    "pos": "NN",
+    "count": 3
+  },
+  {
+    "word": "sector",
+    "pos": "NN",
+    "count": 3
+  },
+  {
+    "word": "key",
+    "pos": "JJ",
+    "count": 3
+  },
+  {
+    "word": "mechanisms",
+    "pos": "NNS",
+    "count": 3
+  },
+  {
+    "word": "timely",
+    "pos": "RB",
+    "count": 3
+  },
+  {
+    "word": "disabilities",
+    "pos": "NNS",
+    "count": 3
+  },
+  {
+    "word": "situations",
+    "pos": "NN",
+    "count": 3
+  },
+  {
+    "word": "mitigation",
+    "pos": "NN",
+    "count": 3
+  },
+  {
+    "word": "nations",
+    "pos": "NNPS",
+    "count": 3
+  },
+  {
+    "word": "others",
+    "pos": "NNS",
+    "count": 3
+  },
+  {
+    "word": "lifestyles",
+    "pos": "NNS",
+    "count": 3
+  },
+  {
+    "word": "implementing",
+    "pos": "VBG",
+    "count": 3
+  },
+  {
+    "word": "healthy",
+    "pos": "JJ",
+    "count": 3
+  },
+  {
+    "word": "year",
+    "pos": "NN",
+    "count": 3
+  },
+  {
+    "word": "well-being",
+    "pos": "VBG",
+    "count": 3
+  },
+  {
+    "word": "circumstances",
+    "pos": "NNS",
+    "count": 3
+  },
+  {
+    "word": "ensuring",
+    "pos": "VBG",
+    "count": 3
+  },
+  {
+    "word": "disability",
+    "pos": "NN",
+    "count": 3
+  },
+  {
+    "word": "capita",
+    "pos": "NNS",
+    "count": 3
+  },
+  {
+    "word": "promoting",
+    "pos": "VBG",
+    "count": 3
+  },
+  {
+    "word": "available",
+    "pos": "JJ",
+    "count": 3
+  },
+  {
+    "word": "areas",
+    "pos": "NNS",
+    "count": 3
+  },
+  {
+    "word": "african",
+    "pos": "JJ",
+    "count": 3
+  },
+  {
+    "word": "strides",
+    "pos": "NNS",
+    "count": 3
+  },
+  {
+    "word": "achieving",
+    "pos": "VBG",
+    "count": 3
+  },
+  {
+    "word": "2025",
+    "pos": "CD",
+    "count": 3
+  },
+  {
+    "word": "internationally",
+    "pos": "RB",
+    "count": 3
+  },
+  {
+    "word": "some",
+    "pos": "DT",
+    "count": 3
+  },
+  {
+    "word": "conditions",
+    "pos": "NNS",
+    "count": 3
+  },
+  {
+    "word": "manage",
+    "pos": "VB",
+    "count": 3
+  },
+  {
+    "word": "landlocked",
+    "pos": "JJ",
+    "count": 3
+  },
+  {
+    "word": "empowerment",
+    "pos": "NN",
+    "count": 3
+  },
+  {
+    "word": "united",
+    "pos": "VBN",
+    "count": 3
+  },
+  {
+    "word": "oda/gni",
+    "pos": "NN",
+    "count": 3
+  },
+  {
+    "word": "waste",
+    "pos": "NN",
+    "count": 3
+  },
+  {
+    "word": "terms",
+    "pos": "NNS",
+    "count": 3
+  },
+  {
+    "word": "part",
+    "pos": "NN",
+    "count": 3
+  },
+  {
+    "word": "livelihood",
+    "pos": "NN",
+    "count": 3
+  },
+  {
+    "word": "must",
+    "pos": "MD",
+    "count": 3
+  },
+  {
+    "word": "peaceful",
+    "pos": "JJ",
+    "count": 3
+  },
+  {
+    "word": "include",
+    "pos": "VBP",
+    "count": 3
+  },
+  {
+    "word": "technologies",
+    "pos": "NNS",
+    "count": 3
+  },
+  {
+    "word": "line",
+    "pos": "NN",
+    "count": 3
+  },
+  {
+    "word": "political",
+    "pos": "JJ",
+    "count": 3
+  },
+  {
+    "word": "processes",
+    "pos": "NNS",
+    "count": 3
+  },
+  {
+    "word": "older",
+    "pos": "JJR",
+    "count": 3
+  },
+  {
+    "word": "emissions",
+    "pos": "NNS",
+    "count": 3
+  },
+  {
+    "word": "double",
+    "pos": "JJ",
+    "count": 3
+  },
+  {
+    "word": "large",
+    "pos": "JJ",
+    "count": 3
+  },
+  {
+    "word": "without",
+    "pos": "IN",
+    "count": 3
+  },
+  {
+    "word": "sustainable",
+    "pos": "NN",
+    "count": 3
+  },
+  {
+    "word": "ages",
+    "pos": "NNS",
+    "count": 3
+  },
+  {
+    "word": "half",
+    "pos": "NN",
+    "count": 3
+  },
+  {
+    "word": "opportunity",
+    "pos": "NN",
+    "count": 3
+  },
+  {
+    "word": "challenge",
+    "pos": "NN",
+    "count": 3
+  },
+  {
+    "word": "major",
+    "pos": "JJ",
+    "count": 3
+  },
+  {
+    "word": "small-scale",
+    "pos": "JJ",
+    "count": 3
+  },
+  {
+    "word": "indigenous",
+    "pos": "JJ",
+    "count": 3
+  },
+  {
+    "word": "shared",
+    "pos": "VBN",
+    "count": 3
+  },
+  {
+    "word": "within",
+    "pos": "IN",
+    "count": 3
+  },
+  {
+    "word": "future",
+    "pos": "NN",
+    "count": 3
+  },
+  {
+    "word": "family",
+    "pos": "RB",
+    "count": 3
+  },
+  {
+    "word": "000",
+    "pos": "NN",
+    "count": 3
+  },
+  {
+    "word": "housing",
+    "pos": "VBG",
+    "count": 3
+  },
+  {
+    "word": "secure",
+    "pos": "VB",
+    "count": 3
+  },
+  {
+    "word": "operationalize",
+    "pos": "NN",
+    "count": 3
+  },
+  {
+    "word": "legislation",
+    "pos": "NN",
+    "count": 3
+  },
+  {
+    "word": "1",
+    "pos": "CD",
+    "count": 3
+  },
+  {
+    "word": "accessible",
+    "pos": "JJ",
+    "count": 3
+  },
+  {
+    "word": "malnutrition",
+    "pos": "NN",
+    "count": 3
+  },
+  {
+    "word": "protecting",
+    "pos": "VBG",
+    "count": 3
+  },
+  {
+    "word": "prevention",
+    "pos": "NN",
+    "count": 3
+  },
+  {
+    "word": "planet",
+    "pos": "NN",
+    "count": 3
+  },
+  {
+    "word": "control",
+    "pos": "NN",
+    "count": 3
+  },
+  {
+    "word": "abuse",
+    "pos": "NN",
+    "count": 3
+  },
+  {
+    "word": "sectors",
+    "pos": "NNS",
+    "count": 3
+  },
+  {
+    "word": "harmful",
+    "pos": "JJ",
+    "count": 3
+  },
+  {
+    "word": "scarcity",
+    "pos": "NN",
+    "count": 3
+  },
+  {
+    "word": "over",
+    "pos": "IN",
+    "count": 3
+  },
+  {
+    "word": "recycling",
+    "pos": "VBG",
+    "count": 3
+  },
+  {
+    "word": "addition",
+    "pos": "NN",
+    "count": 3
+  },
+  {
+    "word": "freshwater",
+    "pos": "JJR",
+    "count": 3
+  },
+  {
+    "word": "products",
+    "pos": "NN",
+    "count": 3
+  },
+  {
+    "word": "paying",
+    "pos": "VBG",
+    "count": 3
+  },
+  {
+    "word": "one",
+    "pos": "NN",
+    "count": 3
+  },
+  {
+    "word": "utilization",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "drinking",
+    "pos": "VBG",
+    "count": 2
+  },
+  {
+    "word": "country",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "likely",
+    "pos": "RB",
+    "count": 2
+  },
+  {
+    "word": "poorest",
+    "pos": "JJS",
+    "count": 2
+  },
+  {
+    "word": "eliminating",
+    "pos": "VBG",
+    "count": 2
+  },
+  {
+    "word": "minimizing",
+    "pos": "VBG",
+    "count": 2
+  },
+  {
+    "word": "release",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "materials",
+    "pos": "NNS",
+    "count": 2
+  },
+  {
+    "word": "wastewater",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "across",
+    "pos": "IN",
+    "count": 2
+  },
+  {
+    "word": "reuse",
+    "pos": "VB",
+    "count": 2
+  },
+  {
+    "word": "globally",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "hygiene",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "inadequate",
+    "pos": "JJ",
+    "count": 2
+  },
+  {
+    "word": "fresh",
+    "pos": "JJ",
+    "count": 2
+  },
+  {
+    "word": "want",
+    "pos": "VBP",
+    "count": 2
+  },
+  {
+    "word": "water-related",
+    "pos": "VBN",
+    "count": 2
+  },
+  {
+    "word": "mountains",
+    "pos": "NNS",
+    "count": 2
+  },
+  {
+    "word": "wetlands",
+    "pos": "NNS",
+    "count": 2
+  },
+  {
+    "word": "goal 6:",
+    "count": 2
+  },
+  {
+    "word": "enabling",
+    "pos": "VBG",
+    "count": 2
+  },
+  {
+    "word": "harvesting",
+    "pos": "VBG",
+    "count": 2
+  },
+  {
+    "word": "outcome",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "international",
+    "pos": "NNP",
+    "count": 2
+  },
+  {
+    "word": "goal 7:",
+    "count": 2
+  },
+  {
+    "word": "action",
+    "pos": "NNP",
+    "count": 2
+  },
+  {
+    "word": "leadership",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "provision",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "energy",
+    "pos": "NNP",
+    "count": 2
+  },
+  {
+    "word": "forced",
+    "pos": "VBN",
+    "count": 2
+  },
+  {
+    "word": "exploitation",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "types",
+    "pos": "NNS",
+    "count": 2
+  },
+  {
+    "word": "today",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "everywhere",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "representation",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "goal 1:",
+    "count": 2
+  },
+  {
+    "word": "fundamental",
+    "pos": "JJ",
+    "count": 2
+  },
+  {
+    "word": "services",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "rate",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "cleaner",
+    "pos": "JJR",
+    "count": 2
+  },
+  {
+    "word": "fossil-fuel",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "respective",
+    "pos": "JJ",
+    "count": 2
+  },
+  {
+    "word": "goal 8:",
+    "count": 2
+  },
+  {
+    "word": "goals",
+    "pos": "NNPS",
+    "count": 2
+  },
+  {
+    "word": "about",
+    "pos": "IN",
+    "count": 2
+  },
+  {
+    "word": "job",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "women’s",
+    "pos": "NNS",
+    "count": 2
+  },
+  {
+    "word": "aimed",
+    "pos": "VBN",
+    "count": 2
+  },
+  {
+    "word": "empower",
+    "pos": "VBP",
+    "count": 2
+  },
+  {
+    "word": "creation",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "remain",
+    "pos": "VB",
+    "count": 2
+  },
+  {
+    "word": "2015",
+    "pos": "CD",
+    "count": 2
+  },
+  {
+    "word": "require",
+    "pos": "VB",
+    "count": 2
+  },
+  {
+    "word": "goal 5:",
+    "count": 2
+  },
+  {
+    "word": "allow",
+    "pos": "VB",
+    "count": 2
+  },
+  {
+    "word": "economy",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "states",
+    "pos": "NNS",
+    "count": 2
+  },
+  {
+    "word": "also",
+    "pos": "RB",
+    "count": 2
+  },
+  {
+    "word": "whole",
+    "pos": "JJ",
+    "count": 2
+  },
+  {
+    "word": "sustain",
+    "pos": "VB",
+    "count": 2
+  },
+  {
+    "word": "environments",
+    "pos": "NNS",
+    "count": 2
+  },
+  {
+    "word": "contribution",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "cultural",
+    "pos": "JJ",
+    "count": 2
+  },
+  {
+    "word": "both",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "disparities",
+    "pos": "NNS",
+    "count": 2
+  },
+  {
+    "word": "diversification",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "entrepreneurship",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "adults",
+    "pos": "NNS",
+    "count": 2
+  },
+  {
+    "word": "leading",
+    "pos": "VBG",
+    "count": 2
+  },
+  {
+    "word": "literacy",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "enterprises",
+    "pos": "NNS",
+    "count": 2
+  },
+  {
+    "word": "enrolment",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "recruitment",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "financing",
+    "pos": "VBG",
+    "count": 2
+  },
+  {
+    "word": "agreement",
+    "pos": "NNP",
+    "count": 2
+  },
+  {
+    "word": "-year",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "affect",
+    "pos": "VB",
+    "count": 2
+  },
+  {
+    "word": "health",
+    "pos": "NNP",
+    "count": 2
+  },
+  {
+    "word": "lead",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "hazardous",
+    "pos": "JJ",
+    "count": 2
+  },
+  {
+    "word": "programmes",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "forms",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "integration",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "migrant",
+    "pos": "JJ",
+    "count": 2
+  },
+  {
+    "word": "health-care",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "creates",
+    "pos": "VBZ",
+    "count": 2
+  },
+  {
+    "word": "promotes",
+    "pos": "VBZ",
+    "count": 2
+  },
+  {
+    "word": "road",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "halve",
+    "pos": "VB",
+    "count": 2
+  },
+  {
+    "word": "communicable",
+    "pos": "JJ",
+    "count": 2
+  },
+  {
+    "word": "low",
+    "pos": "JJ",
+    "count": 2
+  },
+  {
+    "word": "goal 9:",
+    "count": 2
+  },
+  {
+    "word": "births",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "100",
+    "pos": "CD",
+    "count": 2
+  },
+  {
+    "word": "persistent",
+    "pos": "JJ",
+    "count": 2
+  },
+  {
+    "word": "generation",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "standards",
+    "pos": "NNS",
+    "count": 2
+  },
+  {
+    "word": "provides",
+    "pos": "VBZ",
+    "count": 2
+  },
+  {
+    "word": "different",
+    "pos": "JJ",
+    "count": 2
+  },
+  {
+    "word": "objectives",
+    "pos": "NNS",
+    "count": 2
+  },
+  {
+    "word": "increased",
+    "pos": "VBN",
+    "count": 2
+  },
+  {
+    "word": "range",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "happen",
+    "pos": "VB",
+    "count": 2
+  },
+  {
+    "word": "however",
+    "pos": "RB",
+    "count": 2
+  },
+  {
+    "word": "tuberculosis",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "chains",
+    "pos": "NNS",
+    "count": 2
+  },
+  {
+    "word": "markets",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "malaria",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "major",
+    "pos": "NNP",
+    "count": 2
+  },
+  {
+    "word": "capabilities",
+    "pos": "NNS",
+    "count": 2
+  },
+  {
+    "word": "maternal",
+    "pos": "JJ",
+    "count": 2
+  },
+  {
+    "word": "goal 3:",
+    "count": 2
+  },
+  {
+    "word": "strive",
+    "pos": "VB",
+    "count": 2
+  },
+  {
+    "word": "goal 10:",
+    "count": 2
+  },
+  {
+    "word": "equivalent",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "out",
+    "pos": "IN",
+    "count": 2
+  },
+  {
+    "word": "assets",
+    "pos": "NNS",
+    "count": 2
+  },
+  {
+    "word": "does",
+    "pos": "VBZ",
+    "count": 2
+  },
+  {
+    "word": "export",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "principle",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "marginalized",
+    "pos": "VBN",
+    "count": 2
+  },
+  {
+    "word": "inclusion",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "race",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "ethnicity",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "origin",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "status",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "laws",
+    "pos": "NNS",
+    "count": 2
+  },
+  {
+    "word": "elimination",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "deliver",
+    "pos": "VB",
+    "count": 2
+  },
+  {
+    "word": "distortions",
+    "pos": "NNS",
+    "count": 2
+  },
+  {
+    "word": "migration",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "differential",
+    "pos": "JJ",
+    "count": 2
+  },
+  {
+    "word": "trade",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "official",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "open",
+    "pos": "JJ",
+    "count": 2
+  },
+  {
+    "word": "flows",
+    "pos": "NNS",
+    "count": 2
+  },
+  {
+    "word": "foreign",
+    "pos": "JJ",
+    "count": 2
+  },
+  {
+    "word": "arising",
+    "pos": "VBG",
+    "count": 2
+  },
+  {
+    "word": "where",
+    "pos": "WRB",
+    "count": 2
+  },
+  {
+    "word": "fair",
+    "pos": "JJ",
+    "count": 2
+  },
+  {
+    "word": "banks",
+    "pos": "NNS",
+    "count": 2
+  },
+  {
+    "word": "3",
+    "pos": "CD",
+    "count": 2
+  },
+  {
+    "word": "plant",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "goal 11:",
+    "count": 2
+  },
+  {
+    "word": "diversity",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "much",
+    "pos": "JJ",
+    "count": 2
+  },
+  {
+    "word": "best",
+    "pos": "JJS",
+    "count": 2
+  },
+  {
+    "word": "advance",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "maintain",
+    "pos": "VB",
+    "count": 2
+  },
+  {
+    "word": "exist",
+    "pos": "VB",
+    "count": 2
+  },
+  {
+    "word": "urban",
+    "pos": "JJ",
+    "count": 2
+  },
+  {
+    "word": "fishers",
+    "pos": "NNS",
+    "count": 2
+  },
+  {
+    "word": "peoples",
+    "pos": "NNS",
+    "count": 2
+  },
+  {
+    "word": "transportation",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "participatory",
+    "pos": "JJ",
+    "count": 2
+  },
+  {
+    "word": "losses",
+    "pos": "NNS",
+    "count": 2
+  },
+  {
+    "word": "caused",
+    "pos": "VBN",
+    "count": 2
+  },
+  {
+    "word": "persons",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "years",
+    "pos": "NNS",
+    "count": 2
+  },
+  {
+    "word": "green",
+    "pos": "JJ",
+    "count": 2
+  },
+  {
+    "word": "round",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "strengthening",
+    "pos": "VBG",
+    "count": 2
+  },
+  {
+    "word": "planning",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "sufficient",
+    "pos": "JJ",
+    "count": 2
+  },
+  {
+    "word": "central",
+    "pos": "JJ",
+    "count": 2
+  },
+  {
+    "word": "disaster",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "the",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "2050",
+    "pos": "CD",
+    "count": 2
+  },
+  {
+    "word": "goal 12:",
+    "count": 2
+  },
+  {
+    "word": "expected",
+    "pos": "VBN",
+    "count": 2
+  },
+  {
+    "word": "better",
+    "pos": "JJR",
+    "count": 2
+  },
+  {
+    "word": "along",
+    "pos": "IN",
+    "count": 2
+  },
+  {
+    "word": "it",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "involves",
+    "pos": "VBZ",
+    "count": 2
+  },
+  {
+    "word": "2",
+    "pos": "CD",
+    "count": 2
+  },
+  {
+    "word": "consumer",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "engaging",
+    "pos": "VBG",
+    "count": 2
+  },
+  {
+    "word": "awareness-raising",
+    "pos": "VBG",
+    "count": 2
+  },
+  {
+    "word": "procurement",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "additional",
+    "pos": "JJ",
+    "count": 2
+  },
+  {
+    "word": "throughout",
+    "pos": "IN",
+    "count": 2
+  },
+  {
+    "word": "cycle",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "minimize",
+    "pos": "VB",
+    "count": 2
+  },
+  {
+    "word": "system",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "companies",
+    "pos": "NNS",
+    "count": 2
+  },
+  {
+    "word": "a",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "sustainability",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "move",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "restructuring",
+    "pos": "VBG",
+    "count": 2
+  },
+  {
+    "word": "goal 13:",
+    "count": 2
+  },
+  {
+    "word": "floods",
+    "pos": "NNS",
+    "count": 2
+  },
+  {
+    "word": "affecting",
+    "pos": "VBG",
+    "count": 2
+  },
+  {
+    "word": "sea",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "risks",
+    "pos": "NNS",
+    "count": 2
+  },
+  {
+    "word": "nutritious",
+    "pos": "JJ",
+    "count": 2
+  },
+  {
+    "word": "rise",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "history",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "surface",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "temperature",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "enable",
+    "pos": "VB",
+    "count": 2
+  },
+  {
+    "word": "respect",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "coordinated",
+    "pos": "VBN",
+    "count": 2
+  },
+  {
+    "word": "institutional",
+    "pos": "JJ",
+    "count": 2
+  },
+  {
+    "word": "commitment",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "grow",
+    "pos": "VB",
+    "count": 2
+  },
+  {
+    "word": "rethink",
+    "pos": "VB",
+    "count": 2
+  },
+  {
+    "word": "change",
+    "pos": "NNP",
+    "count": 2
+  },
+  {
+    "word": "goal",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "time",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "goal 14:",
+    "count": 2
+  },
+  {
+    "word": "goal 2:",
+    "count": 2
+  },
+  {
+    "word": "actions",
+    "pos": "NNS",
+    "count": 2
+  },
+  {
+    "word": "seas",
+    "pos": "NNS",
+    "count": 2
+  },
+  {
+    "word": "based",
+    "pos": "VBN",
+    "count": 2
+  },
+  {
+    "word": "mobilization",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "coastal",
+    "pos": "JJ",
+    "count": 2
+  },
+  {
+    "word": "restoration",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "ocean",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "overfishing",
+    "pos": "VBG",
+    "count": 2
+  },
+  {
+    "word": "events",
+    "pos": "NNS",
+    "count": 2
+  },
+  {
+    "word": "unreported",
+    "pos": "JJ",
+    "count": 2
+  },
+  {
+    "word": "unregulated",
+    "pos": "JJ",
+    "count": 2
+  },
+  {
+    "word": "climate-related",
+    "pos": "VBN",
+    "count": 2
+  },
+  {
+    "word": "consistent",
+    "pos": "JJ",
+    "count": 2
+  },
+  {
+    "word": "new",
+    "pos": "JJ",
+    "count": 2
+  },
+  {
+    "word": "inheritance",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "property",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "ownership",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "legal",
+    "pos": "JJ",
+    "count": 2
+  },
+  {
+    "word": "goal 15:",
+    "count": 2
+  },
+  {
+    "word": "coverage",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "substantial",
+    "pos": "JJ",
+    "count": 2
+  },
+  {
+    "word": "loss",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "hectares",
+    "pos": "NNS",
+    "count": 2
+  },
+  {
+    "word": "drylands",
+    "pos": "NNS",
+    "count": 2
+  },
+  {
+    "word": "deforestation",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "reforestation",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "poaching",
+    "pos": "VBG",
+    "count": 2
+  },
+  {
+    "word": "protected",
+    "pos": "VBN",
+    "count": 2
+  },
+  {
+    "word": "values",
+    "pos": "NNS",
+    "count": 2
+  },
+  {
+    "word": "nationally",
+    "pos": "RB",
+    "count": 2
+  },
+  {
+    "word": "finance",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "goal 16:",
+    "count": 2
+  },
+  {
+    "word": "justice",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "crime",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "transparent",
+    "pos": "JJ",
+    "count": 2
+  },
+  {
+    "word": "non-discriminatory",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "goal 17:",
+    "count": 2
+  },
+  {
+    "word": "partnership",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "agenda",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "dimensions",
+    "pos": "NNS",
+    "count": 2
+  },
+  {
+    "word": "civil",
+    "pos": "JJ",
+    "count": 2
+  },
+  {
+    "word": "society",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "these",
+    "pos": "DT",
+    "count": 2
+  },
+  {
+    "word": "long-term",
+    "pos": "JJ",
+    "count": 2
+  },
+  {
+    "word": "oversight",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "who",
+    "pos": "WP",
+    "count": 2
+  },
+  {
+    "word": "0.20",
+    "pos": "CD",
+    "count": 2
+  },
+  {
+    "word": "1.25",
+    "pos": "CD",
+    "count": 2
+  },
+  {
+    "word": "north-south",
+    "pos": "JJ",
+    "count": 2
+  },
+  {
+    "word": "south-south",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "triangular",
+    "pos": "JJ",
+    "count": 2
+  },
+  {
+    "word": "mutually",
+    "pos": "RB",
+    "count": 2
+  },
+  {
+    "word": "achievement",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "coordination",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "existing",
+    "pos": "VBG",
+    "count": 2
+  },
+  {
+    "word": "mechanism",
+    "pos": "NN",
+    "count": 2
+  },
+  {
+    "word": "preferential",
+    "pos": "JJ",
+    "count": 2
+  },
+  {
+    "word": "exports",
+    "pos": "NNS",
+    "count": 2
+  },
+  {
+    "word": "goal 4:",
+    "count": 2
+  },
+  {
+    "word": "definitions",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "if",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "done",
+    "pos": "VBN",
+    "count": 1
+  },
+  {
+    "word": "13",
+    "pos": "CD",
+    "count": 1
+  },
+  {
+    "word": "water-use",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "contamination",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "offers",
+    "pos": "VBZ",
+    "count": 1
+  },
+  {
+    "word": "withdrawals",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "suffering",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "forestry",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "transboundary",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "traditional",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "predictable",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "means",
+    "pos": "VBZ",
+    "count": 1
+  },
+  {
+    "word": "infants",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "rivers",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "aquifers",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "lakes",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "tobacco",
+    "pos": "NNP",
+    "count": 1
+  },
+  {
+    "word": "water-",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "sanitation-related",
+    "pos": "VBN",
+    "count": 1
+  },
+  {
+    "word": "control",
+    "pos": "NNP",
+    "count": 1
+  },
+  {
+    "word": "five",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "desalination",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "technologies",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "extension",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "noncommunicable",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "primarily",
+    "pos": "RB",
+    "count": 1
+  },
+  {
+    "word": "livestock",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "declaration",
+    "pos": "NNP",
+    "count": 1
+  },
+  {
+    "word": "trips",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "gene",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "nearly",
+    "pos": "RB",
+    "count": 1
+  },
+  {
+    "word": "public",
+    "pos": "NNP",
+    "count": 1
+  },
+  {
+    "word": "generate",
+    "pos": "VB",
+    "count": 1
+  },
+  {
+    "word": "affirms",
+    "pos": "VBZ",
+    "count": 1
+  },
+  {
+    "word": "faces",
+    "pos": "VBZ",
+    "count": 1
+  },
+  {
+    "word": "statistical",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "provisions",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "correct",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "transforms",
+    "pos": "VBZ",
+    "count": 1
+  },
+  {
+    "word": "un",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "secretary-general",
+    "pos": "NNP",
+    "count": 1
+  },
+  {
+    "word": "ban",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "ki-moon",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "aspects",
+    "pos": "NNPS",
+    "count": 1
+  },
+  {
+    "word": "intellectual",
+    "pos": "NNP",
+    "count": 1
+  },
+  {
+    "word": "property",
+    "pos": "NNP",
+    "count": 1
+  },
+  {
+    "word": "mix",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "rights",
+    "pos": "NNP",
+    "count": 1
+  },
+  {
+    "word": "improvement",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "advanced",
+    "pos": "VBD",
+    "count": 1
+  },
+  {
+    "word": "regarding",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "flexibilities",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "supplying",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "land-locked",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "remarkable",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "supporting",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "roughly",
+    "pos": "RB",
+    "count": 1
+  },
+  {
+    "word": "restrictions",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "people-centred",
+    "pos": "VBN",
+    "count": 1
+  },
+  {
+    "word": "us$",
+    "pos": "$",
+    "count": 1
+  },
+  {
+    "word": "too",
+    "pos": "RB",
+    "count": 1
+  },
+  {
+    "word": "places",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "having",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "little",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "doesn’t",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "guarantee",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "ability",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "escape",
+    "pos": "VB",
+    "count": 1
+  },
+  {
+    "word": "slow",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "uneven",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "retention",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "us",
+    "pos": "PRP",
+    "count": 1
+  },
+  {
+    "word": "retool",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "workforce",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "eradicating",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "continued",
+    "pos": "VBD",
+    "count": 1
+  },
+  {
+    "word": "insufficient",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "parallel",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "under-consumption",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "lead",
+    "pos": "VB",
+    "count": 1
+  },
+  {
+    "word": "erosion",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "contract",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "underlying",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "democratic",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "societies:",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "dimensions",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "targets",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "almost",
+    "pos": "RB",
+    "count": 1
+  },
+  {
+    "word": "beyond",
+    "pos": "IN",
+    "count": 1
+  },
+  {
+    "word": "states",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "stunting",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "warning",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "wasting",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "stimulate",
+    "pos": "VB",
+    "count": 1
+  },
+  {
+    "word": "effect",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "harming",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "job",
+    "pos": "NNP",
+    "count": 1
+  },
+  {
+    "word": "daily",
+    "pos": "RB",
+    "count": 1
+  },
+  {
+    "word": "lifelong",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "required",
+    "pos": "VBN",
+    "count": 1
+  },
+  {
+    "word": "mandate",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "obtaining",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "exclusion",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "soils",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "7",
+    "pos": "CD",
+    "count": 1
+  },
+  {
+    "word": "people’s",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "microfinance",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "proper",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "annum",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "schools",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "particularly",
+    "pos": "RB",
+    "count": 1
+  },
+  {
+    "word": "upgrading",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "basic",
+    "pos": "NNP",
+    "count": 1
+  },
+  {
+    "word": "functioning",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "high-value",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "added",
+    "pos": "VBD",
+    "count": 1
+  },
+  {
+    "word": "labour-intensive",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "sectors",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "development-oriented",
+    "pos": "VBN",
+    "count": 1
+  },
+  {
+    "word": "creativity",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "commodity",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "formalization",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "micro-",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "small-",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "medium-sized",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "tremendously",
+    "pos": "RB",
+    "count": 1
+  },
+  {
+    "word": "yet",
+    "pos": "RB",
+    "count": 1
+  },
+  {
+    "word": "bolder",
+    "pos": "JJR",
+    "count": 1
+  },
+  {
+    "word": "endeavour",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "decouple",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "derivatives",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "currently",
+    "pos": "RB",
+    "count": 1
+  },
+  {
+    "word": "example",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "nutritional",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "floors",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "adolescent",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "young",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "pay",
+    "pos": "VB",
+    "count": 1
+  },
+  {
+    "word": "training",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "reserves",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "immediate",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "limit",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "slavery",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "prohibition",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "worst",
+    "pos": "JJS",
+    "count": 1
+  },
+  {
+    "word": "soldiers",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "few",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "price",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "complete",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "migrants",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "precarious",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "devise",
+    "pos": "VB",
+    "count": 1
+  },
+  {
+    "word": "free",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "secondary",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "volatility",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "measured",
+    "pos": "VBN",
+    "count": 1
+  },
+  {
+    "word": "goal-",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "banking",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "insurance",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "aid",
+    "pos": "NNP",
+    "count": 1
+  },
+  {
+    "word": "trade-related",
+    "pos": "VBN",
+    "count": 1
+  },
+  {
+    "word": "technical",
+    "pos": "NNP",
+    "count": 1
+  },
+  {
+    "word": "assistance",
+    "pos": "NNP",
+    "count": 1
+  },
+  {
+    "word": "4",
+    "pos": "CD",
+    "count": 1
+  },
+  {
+    "word": "outcomes",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "strategy",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "global",
+    "pos": "NNP",
+    "count": 1
+  },
+  {
+    "word": "jobs",
+    "pos": "NNP",
+    "count": 1
+  },
+  {
+    "word": "pact",
+    "pos": "NNP",
+    "count": 1
+  },
+  {
+    "word": "labour",
+    "pos": "NNP",
+    "count": 1
+  },
+  {
+    "word": "childhood",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "pregnant",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "foster",
+    "pos": "VB",
+    "count": 1
+  },
+  {
+    "word": "investments",
+    "pos": "NNPS",
+    "count": 1
+  },
+  {
+    "word": "preprimary",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "irrigation",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "communication",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "crucial",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "empowering",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "long",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "recognized",
+    "pos": "VBN",
+    "count": 1
+  },
+  {
+    "word": "improvements",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "outcomes",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "inclusive",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "so",
+    "pos": "RB",
+    "count": 1
+  },
+  {
+    "word": "source",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "lactating",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "allows",
+    "pos": "VBZ",
+    "count": 1
+  },
+  {
+    "word": "rapid",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "sustained",
+    "pos": "VBN",
+    "count": 1
+  },
+  {
+    "word": "increases",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "ready",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "amount",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "rapidly",
+    "pos": "RB",
+    "count": 1
+  },
+  {
+    "word": "technological",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "tertiary",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "university",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "energy-efficiency",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "plus",
+    "pos": "CC",
+    "count": 1
+  },
+  {
+    "word": "pro-poor",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "transborder",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "gender-sensitive",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "raise",
+    "pos": "VB",
+    "count": 1
+  },
+  {
+    "word": "industry’s",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "putting",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "credit",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "producers",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "expectancy",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "retrofit",
+    "pos": "VB",
+    "count": 1
+  },
+  {
+    "word": "industries",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "resource-use",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "adoption",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "exposure",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "pressure",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "capabilities",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "common",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "encouraging",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "spending",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "killers",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "18",
+    "pos": "CD",
+    "count": 1
+  },
+  {
+    "word": "numeracy",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "conducive",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "inter",
+    "pos": "FW",
+    "count": 1
+  },
+  {
+    "word": "alia",
+    "pos": "FW",
+    "count": 1
+  },
+  {
+    "word": "commodities",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "learners",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "internet",
+    "pos": "NNP",
+    "count": 1
+  },
+  {
+    "word": "acquire",
+    "pos": "VB",
+    "count": 1
+  },
+  {
+    "word": "depend",
+    "pos": "VB",
+    "count": 1
+  },
+  {
+    "word": "community",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "lifting",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "farmers",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "nations",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "inroads",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "persists",
+    "pos": "VBZ",
+    "count": 1
+  },
+  {
+    "word": "pastoralists",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "additionally",
+    "pos": "RB",
+    "count": 1
+  },
+  {
+    "word": "may",
+    "pos": "MD",
+    "count": 1
+  },
+  {
+    "word": "reduced",
+    "pos": "VBN",
+    "count": 1
+  },
+  {
+    "word": "risen",
+    "pos": "VBN",
+    "count": 1
+  },
+  {
+    "word": "growing",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "consensus",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "sufﬁcient",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "vulnerability",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "involve",
+    "pos": "VB",
+    "count": 1
+  },
+  {
+    "word": "three",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "to",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "accelerated",
+    "pos": "VBN",
+    "count": 1
+  },
+  {
+    "word": "regions",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "disadvantaged",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "peace",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "populations",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "bottom",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "40",
+    "pos": "CD",
+    "count": 1
+  },
+  {
+    "word": "average",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "non-violence",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "irrespective",
+    "pos": "RB",
+    "count": 1
+  },
+  {
+    "word": "sex",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "citizenship",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "appreciation",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "inputs",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "religion",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "culture’s",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "inequalities",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "discriminatory",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "vulnerable",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "regard",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "fiscal",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "wage",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "regulation",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "manifestations",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "regulations",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "voice",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "facilities",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "credible",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "shocks",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "legitimate",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "institutions",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "orderly",
+    "pos": "RB",
+    "count": 1
+  },
+  {
+    "word": "regular",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "responsible",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "sensitive",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "mobility",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "planned",
+    "pos": "VBN",
+    "count": 1
+  },
+  {
+    "word": "well-managed",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "policies",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "nonviolent",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "droughts",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "polio",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "globally",
+    "pos": "RB",
+    "count": 1
+  },
+  {
+    "word": "scholarships",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "spread",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "hiv/aids",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "non-farm",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "disasters",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "greatest",
+    "pos": "JJS",
+    "count": 1
+  },
+  {
+    "word": "no",
+    "pos": "DT",
+    "count": 1
+  },
+  {
+    "word": "engineering",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "transaction",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "wide",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "remittances",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "remittance",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "corridors",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "longer",
+    "pos": "RB",
+    "count": 1
+  },
+  {
+    "word": "cities",
+    "pos": "NNPS",
+    "count": 1
+  },
+  {
+    "word": "hubs",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "ideas",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "commerce",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "qualified",
+    "pos": "VBN",
+    "count": 1
+  },
+  {
+    "word": "teachers",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "teacher",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "enabled",
+    "pos": "VBD",
+    "count": 1
+  },
+  {
+    "word": "ends",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "socially",
+    "pos": "RB",
+    "count": 1
+  },
+  {
+    "word": "economically",
+    "pos": "RB",
+    "count": 1
+  },
+  {
+    "word": "however",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "meet",
+    "pos": "VB",
+    "count": 1
+  },
+  {
+    "word": "forcing",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "maintaining",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "way",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "continues",
+    "pos": "VBZ",
+    "count": 1
+  },
+  {
+    "word": "prosperity",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "straining",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "common",
+    "pos": "NNP",
+    "count": 1
+  },
+  {
+    "word": "and",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "congestion",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "funds",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "shortage",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "emerging",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "declining",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "face",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "overcome",
+    "pos": "VB",
+    "count": 1
+  },
+  {
+    "word": "ways",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "thrive",
+    "pos": "VB",
+    "count": 1
+  },
+  {
+    "word": "economic",
+    "pos": "NNP",
+    "count": 1
+  },
+  {
+    "word": "includes",
+    "pos": "VBZ",
+    "count": 1
+  },
+  {
+    "word": "millennium",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "slums",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "safety",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "notably",
+    "pos": "RB",
+    "count": 1
+  },
+  {
+    "word": "expanding",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "urbanization",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "issues",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "settlement",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "safeguard",
+    "pos": "VB",
+    "count": 1
+  },
+  {
+    "word": "heritage",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "decrease",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "(including",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "relative",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "boys)",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "ratio",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "municipal",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "suffer",
+    "pos": "VB",
+    "count": 1
+  },
+  {
+    "word": "70",
+    "pos": "CD",
+    "count": 1
+  },
+  {
+    "word": "spaces",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "disabilities",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "positive",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "links",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "peri-urban",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "migrate",
+    "pos": "VB",
+    "count": 1
+  },
+  {
+    "word": "cut",
+    "pos": "VB",
+    "count": 1
+  },
+  {
+    "word": "search",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "settlements",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "adopting",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "only",
+    "pos": "RB",
+    "count": 1
+  },
+  {
+    "word": "nutrition",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "sendai",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "necessary",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "reduction",
+    "pos": "NNP",
+    "count": 1
+  },
+  {
+    "word": "-",
+    "pos": ":",
+    "count": 1
+  },
+  {
+    "word": "holistic",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "preventable",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "prosperous",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "buildings",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "utilizing",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "slipping",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "newborns",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "aiming",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "helps",
+    "pos": "VBZ",
+    "count": 1
+  },
+  {
+    "word": "overall",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "competitiveness",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "aims",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "“doing",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "”",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "net",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "welfare",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "gains",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "neonatal",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "lifecycle",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "profound",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "12",
+    "pos": "CD",
+    "count": 1
+  },
+  {
+    "word": "stakeholders",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "business",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "fuel",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "makers",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "researchers",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "scientists",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "retailers",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "media",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "agencies",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "systemic",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "approach",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "actors",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "operating",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "chain",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "producer",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "final",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "variety",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "benefit",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "births",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "labels",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "humanity",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "under-",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "efficient",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "resources",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "retail",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "post-harvest",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "losses",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "wastes",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "25",
+    "pos": "CD",
+    "count": 1
+  },
+  {
+    "word": "epidemics",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "aids",
+    "pos": "NNP",
+    "count": 1
+  },
+  {
+    "word": "spheres",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "reuse",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "neglected",
+    "pos": "VBN",
+    "count": 1
+  },
+  {
+    "word": "transnational",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "tropical",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "flooding",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "reporting",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "priorities",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "awareness",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "harmony",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "nature",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "hepatitis",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "tools",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "monitor",
+    "pos": "VB",
+    "count": 1
+  },
+  {
+    "word": "rationalize",
+    "pos": "VB",
+    "count": 1
+  },
+  {
+    "word": "inefficient",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "wasteful",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "removing",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "marriage",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "taxation",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "phasing",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "reflect",
+    "pos": "VB",
+    "count": 1
+  },
+  {
+    "word": "specific",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "possible",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "manner",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "protects",
+    "pos": "VBZ",
+    "count": 1
+  },
+  {
+    "word": "female",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "genital",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "mutilation",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "continent",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "disrupting",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "costing",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "dearly",
+    "pos": "RB",
+    "count": 1
+  },
+  {
+    "word": "tomorrow",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "people",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "experiencing",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "changing",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "rising",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "recognize",
+    "pos": "VB",
+    "count": 1
+  },
+  {
+    "word": "unpaid",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "greenhouse",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "gas",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "water-borne",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "driving",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "back",
+    "pos": "RB",
+    "count": 1
+  },
+  {
+    "word": "highest",
+    "pos": "JJS",
+    "count": 1
+  },
+  {
+    "word": "policies and",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "average",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "diseases",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "responsibility",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "projected",
+    "pos": "VBN",
+    "count": 1
+  },
+  {
+    "word": "21",
+    "pos": "CD",
+    "count": 1
+  },
+  {
+    "word": "st",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "century",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "surpass",
+    "pos": "VB",
+    "count": 1
+  },
+  {
+    "word": "degrees",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "celsius",
+    "pos": "NNP",
+    "count": 1
+  },
+  {
+    "word": "century—with",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "warm",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "affordable",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "scalable",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "third",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "leapfrog",
+    "pos": "VB",
+    "count": 1
+  },
+  {
+    "word": "pace",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "quickening",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "turning",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "but",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "household",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "borders",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "anywhere",
+    "pos": "RB",
+    "count": 1
+  },
+  {
+    "word": "issue",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "premature",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "toward",
+    "pos": "IN",
+    "count": 1
+  },
+  {
+    "word": "low-carbon",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "agreement",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "paris",
+    "pos": "NNP",
+    "count": 1
+  },
+  {
+    "word": "december",
+    "pos": "NNP",
+    "count": 1
+  },
+  {
+    "word": "adaptive",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "hazards",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "decisionmaking",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "warning",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "programme",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "undertaken",
+    "pos": "VBN",
+    "count": 1
+  },
+  {
+    "word": "developed-country",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "parties",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "non-communicable",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "limited",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "conference",
+    "pos": "NNP",
+    "count": 1
+  },
+  {
+    "word": "population",
+    "pos": "NNP",
+    "count": 1
+  },
+  {
+    "word": "mobilizing",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "jointly",
+    "pos": "RB",
+    "count": 1
+  },
+  {
+    "word": "annually",
+    "pos": "RB",
+    "count": 1
+  },
+  {
+    "word": "context",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "meaningful",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "transparency",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "green",
+    "pos": "NNP",
+    "count": 1
+  },
+  {
+    "word": "fund",
+    "pos": "NNP",
+    "count": 1
+  },
+  {
+    "word": "capitalization",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "soon",
+    "pos": "RB",
+    "count": 1
+  },
+  {
+    "word": "possible",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "beijing",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "raising",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "change-related",
+    "pos": "VBN",
+    "count": 1
+  },
+  {
+    "word": "focusing",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "communities",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "*",
+    "pos": "SYM",
+    "count": 1
+  },
+  {
+    "word": "acknowledging",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "intergovernmental",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "forum",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "negotiating",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "response",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "platform",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "how",
+    "pos": "WRB",
+    "count": 1
+  },
+  {
+    "word": "documents",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "review",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "conferences",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "chemistry",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "currents",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "drive",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "earth",
+    "pos": "NNP",
+    "count": 1
+  },
+  {
+    "word": "habitable",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "humankind",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "our",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "rainwater",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "coastlines",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "oxygen",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "breathe",
+    "pos": "VB",
+    "count": 1
+  },
+  {
+    "word": "ultimately",
+    "pos": "RB",
+    "count": 1
+  },
+  {
+    "word": "provided",
+    "pos": "VBN",
+    "count": 1
+  },
+  {
+    "word": "regulated",
+    "pos": "VBN",
+    "count": 1
+  },
+  {
+    "word": "vital",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "conduits",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "careful",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "feature",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "kinds",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "land-based",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "debris",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "nutrient",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "undertake",
+    "pos": "VB",
+    "count": 1
+  },
+  {
+    "word": "reforms",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "avoid",
+    "pos": "VB",
+    "count": 1
+  },
+  {
+    "word": "give",
+    "pos": "VB",
+    "count": 1
+  },
+  {
+    "word": "oceans",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "laws",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "acidification",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "effectively",
+    "pos": "RB",
+    "count": 1
+  },
+  {
+    "word": "regulate",
+    "pos": "VB",
+    "count": 1
+  },
+  {
+    "word": "mental",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "well-being",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "women",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "enforceable",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "substance",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "destructive",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "science-based",
+    "pos": "VBN",
+    "count": 1
+  },
+  {
+    "word": "fish",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "stocks",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "shortest",
+    "pos": "JJS",
+    "count": 1
+  },
+  {
+    "word": "feasible",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "produce",
+    "pos": "VB",
+    "count": 1
+  },
+  {
+    "word": "maximum",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "yield",
+    "pos": "VB",
+    "count": 1
+  },
+  {
+    "word": "determined",
+    "pos": "VBN",
+    "count": 1
+  },
+  {
+    "word": "biological",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "characteristics",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "nourish",
+    "pos": "VB",
+    "count": 1
+  },
+  {
+    "word": "clean",
+    "pos": "NNP",
+    "count": 1
+  },
+  {
+    "word": "prohibit",
+    "pos": "VB",
+    "count": 1
+  },
+  {
+    "word": "certain",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "narcotic",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "overcapacity",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "refrain",
+    "pos": "VB",
+    "count": 1
+  },
+  {
+    "word": "introducing",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "recognizing",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "integral",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "negotiation",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "island",
+    "pos": "NNP",
+    "count": 1
+  },
+  {
+    "word": "aquaculture",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "drug",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "intergovernmental",
+    "pos": "NNP",
+    "count": 1
+  },
+  {
+    "word": "oceanographic",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "commission",
+    "pos": "NNP",
+    "count": 1
+  },
+  {
+    "word": "criteria",
+    "pos": "NNP",
+    "count": 1
+  },
+  {
+    "word": "guidelines",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "marine",
+    "pos": "NNP",
+    "count": 1
+  },
+  {
+    "word": "technology",
+    "pos": "NNP",
+    "count": 1
+  },
+  {
+    "word": "artisanal",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "today’s",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "reflected",
+    "pos": "VBD",
+    "count": 1
+  },
+  {
+    "word": "unclos",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "795",
+    "pos": "CD",
+    "count": 1
+  },
+  {
+    "word": "recalled",
+    "pos": "VBD",
+    "count": 1
+  },
+  {
+    "word": "paragraph",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "158",
+    "pos": "CD",
+    "count": 1
+  },
+  {
+    "word": "future",
+    "pos": "NNP",
+    "count": 1
+  },
+  {
+    "word": "want",
+    "pos": "VB",
+    "count": 1
+  },
+  {
+    "word": "alcohol",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "due",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "bad",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "reverse",
+    "pos": "VB",
+    "count": 1
+  },
+  {
+    "word": "economics",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "forests",
+    "pos": "NNPS",
+    "count": 1
+  },
+  {
+    "word": "cover",
+    "pos": "VB",
+    "count": 1
+  },
+  {
+    "word": "30",
+    "pos": "CD",
+    "count": 1
+  },
+  {
+    "word": "earth’s",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "shelter",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "combating",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "homes",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "thirteen",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "since",
+    "pos": "IN",
+    "count": 1
+  },
+  {
+    "word": "lost",
+    "pos": "VBD",
+    "count": 1
+  },
+  {
+    "word": "seeds",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "led",
+    "pos": "VBN",
+    "count": 1
+  },
+  {
+    "word": "3.6",
+    "pos": "CD",
+    "count": 1
+  },
+  {
+    "word": "die",
+    "pos": "VB",
+    "count": 1
+  },
+  {
+    "word": "pose",
+    "pos": "VB",
+    "count": 1
+  },
+  {
+    "word": "livelihoods",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "fight",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "terrestrial",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "inland",
+    "pos": "RB",
+    "count": 1
+  },
+  {
+    "word": "obligations",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "afforestation",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "injuries",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "degradation-neutral",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "mountain",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "habitats",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "extinction",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "threatened",
+    "pos": "VBN",
+    "count": 1
+  },
+  {
+    "word": "cultivated",
+    "pos": "VBN",
+    "count": 1
+  },
+  {
+    "word": "traffic",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "flora",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "fauna",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "demand",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "wildlife",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "introduce",
+    "pos": "VB",
+    "count": 1
+  },
+  {
+    "word": "introduction",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "invasive",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "alien",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "priority",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "ecosystem",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "negatively",
+    "pos": "RB",
+    "count": 1
+  },
+  {
+    "word": "accounts",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "accidents",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "choices",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "forest",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "incentives",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "pursue",
+    "pos": "VB",
+    "count": 1
+  },
+  {
+    "word": "educational",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "just",
+    "pos": "RB",
+    "count": 1
+  },
+  {
+    "word": "16",
+    "pos": "CD",
+    "count": 1
+  },
+  {
+    "word": "dedicated",
+    "pos": "VBN",
+    "count": 1
+  },
+  {
+    "word": "families",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "death",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "torture",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "children",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "rule",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "illicit",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "arms",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "recovery",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "return",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "stolen",
+    "pos": "VBN",
+    "count": 1
+  },
+  {
+    "word": "organized",
+    "pos": "VBN",
+    "count": 1
+  },
+  {
+    "word": "3.7",
+    "pos": "CD",
+    "count": 1
+  },
+  {
+    "word": "corruption",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "bribery",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "afflicts",
+    "pos": "VBZ",
+    "count": 1
+  },
+  {
+    "word": "responsive",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "representative",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "broaden",
+    "pos": "VB",
+    "count": 1
+  },
+  {
+    "word": "governance",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "identity",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "birth",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "registration",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "freedoms",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "terrorism",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "enforce",
+    "pos": "VB",
+    "count": 1
+  },
+  {
+    "word": "plants",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "farmed",
+    "pos": "VBD",
+    "count": 1
+  },
+  {
+    "word": "revitalize",
+    "pos": "VB",
+    "count": 1
+  },
+  {
+    "word": "worsening",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "successful",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "by",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "four",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "governments",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "domesticated",
+    "pos": "VBN",
+    "count": 1
+  },
+  {
+    "word": "animals",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "hungry",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "built",
+    "pos": "VBN",
+    "count": 1
+  },
+  {
+    "word": "upon",
+    "pos": "IN",
+    "count": 1
+  },
+  {
+    "word": "principles",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "vision",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "place",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "centre",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "urgent",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "redirect",
+    "pos": "VB",
+    "count": 1
+  },
+  {
+    "word": "unlock",
+    "pos": "VB",
+    "count": 1
+  },
+  {
+    "word": "transformative",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "power",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "trillions",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "dollars",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "chronic",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "critical",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "include",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "set",
+    "pos": "VBN",
+    "count": 1
+  },
+  {
+    "word": "clear",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "direction",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "review",
+    "pos": "NNP",
+    "count": 1
+  },
+  {
+    "word": "regulations",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "incentive",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "structures",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "retooled",
+    "pos": "VBN",
+    "count": 1
+  },
+  {
+    "word": "attract",
+    "pos": "VB",
+    "count": 1
+  },
+  {
+    "word": "reinforce",
+    "pos": "VB",
+    "count": 1
+  },
+  {
+    "word": "national",
+    "pos": "NNP",
+    "count": 1
+  },
+  {
+    "word": "recurring",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "supreme",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "audit",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "functions",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "legislatures",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "strengthened",
+    "pos": "VBN",
+    "count": 1
+  },
+  {
+    "word": "tax",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "revenue",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "collection",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "commitments",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "0.7",
+    "pos": "CD",
+    "count": 1
+  },
+  {
+    "word": "shortages",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "0.15",
+    "pos": "CD",
+    "count": 1
+  },
+  {
+    "word": "wild",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "oda",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "providers",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "encouraged",
+    "pos": "VBN",
+    "count": 1
+  },
+  {
+    "word": "consider",
+    "pos": "VB",
+    "count": 1
+  },
+  {
+    "word": "setting",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "multiple",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "sources",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "assist",
+    "pos": "NNP",
+    "count": 1
+  },
+  {
+    "word": "attaining",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "according",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "fostering",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "relief",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "external",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "highly",
+    "pos": "RB",
+    "count": 1
+  },
+  {
+    "word": "indebted",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "distress",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "regimes",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "countriestechnology",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "defecation",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "soundly",
+    "pos": "RB",
+    "count": 1
+  },
+  {
+    "word": "managed",
+    "pos": "VBD",
+    "count": 1
+  },
+  {
+    "word": "diversified",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "seed",
+    "pos": "VBN",
+    "count": 1
+  },
+  {
+    "word": "dumping",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "1990",
+    "pos": "CD",
+    "count": 1
+  },
+  {
+    "word": "facilitation",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "consume",
+    "pos": "VBP",
+    "count": 1
+  },
+  {
+    "word": "dissemination",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "diffusion",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "favourable",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "concessional",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "illnesses",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "bank",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "2017",
+    "pos": "CD",
+    "count": 1
+  },
+  {
+    "word": "technologycapacity",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "building",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "targeted",
+    "pos": "VBN",
+    "count": 1
+  },
+  {
+    "word": "cooperationtrade",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "rules-based",
+    "pos": "VBN",
+    "count": 1
+  },
+  {
+    "word": "multilateral",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "trading",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "conclusion",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "negotiations",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "halving",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "view",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "doubling",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "countries’",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "realize",
+    "pos": "VB",
+    "count": 1
+  },
+  {
+    "word": "duty-free",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "quota-free",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "lasting",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "basis",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "decisions",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "rules",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "applicable",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "imports",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "simple",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "facilitating",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "accesssystemic",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "issuespolicy",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "untreated",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "macroeconomic",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "stability",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "each",
+    "pos": "DT",
+    "count": 1
+  },
+  {
+    "word": "country’s",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "space",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "establish",
+    "pos": "VB",
+    "count": 1
+  },
+  {
+    "word": "developmentmulti-stakeholder",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "partnerships",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "complemented",
+    "pos": "VBD",
+    "count": 1
+  },
+  {
+    "word": "multi-stakeholder",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "expertise",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "public-private",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "experience",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "resourcing",
+    "pos": "VBG",
+    "count": 1
+  },
+  {
+    "word": "partnershipsdata",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "accountability",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "availability",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "high-quality",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "data",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "disaggregated",
+    "pos": "VBN",
+    "count": 1
+  },
+  {
+    "word": "migratory",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "geographic",
+    "pos": "JJ",
+    "count": 1
+  },
+  {
+    "word": "location",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "characteristics",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "contexts",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "initiatives",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "measurements",
+    "pos": "NNS",
+    "count": 1
+  },
+  {
+    "word": "complement",
+    "pos": "NN",
+    "count": 1
+  },
+  {
+    "word": "initiative",
+    "pos": "NN",
+    "count": 1
+  }
+]
